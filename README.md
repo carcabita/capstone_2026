@@ -1,4 +1,3 @@
-# Football Performance Analysis and Scouting Platform -- Capstone Project
 # ⚽ Football Performance Analysis & Scouting Platform
 
 > **Capstone Project — Bachelor in Data & Business Analytics**  
@@ -24,7 +23,13 @@ The platform integrates four analytical modules into a single end-to-end pipelin
 
 ## Screenshots
 
-> *(Add screenshots of the PyQt6 UI here — patterns tab, recommendations cards, simulation results)*
+<img width="1919" height="1125" alt="image" src="https://github.com/user-attachments/assets/bce70d56-57d8-40a0-a90f-dac0a6ce543a" />
+<img width="1919" height="1123" alt="image" src="https://github.com/user-attachments/assets/97a9eb1e-82c6-4b39-8467-711e12865dbc" />
+<img width="1919" height="1126" alt="image" src="https://github.com/user-attachments/assets/1281cbaf-0f24-4819-b332-7e38e8db332e" />
+<img width="1051" height="1118" alt="image" src="https://github.com/user-attachments/assets/7ba1fe3d-7aed-4adf-89fe-b7a18cef5d43" />
+
+
+
 
 ---
 
@@ -32,7 +37,7 @@ The platform integrates four analytical modules into a single end-to-end pipelin
 
 - **Language:** Python 3
 - **GUI:** PyQt6
-- **Data sources:** FBRef (2024–25, top 5 leagues), Transfermarkt, Kaggle match dataset
+- **Data sources:** FBRef (2024–25, top 5 leagues), Transfermarkt, Kaggle match dataset (FBRef scraped)
 - **Key libraries:**
 
 ```
